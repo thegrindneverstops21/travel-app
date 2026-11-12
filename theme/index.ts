@@ -8,8 +8,8 @@ export const scale = (size: number) =>
 
 export const colors = {
     primary: '#4F46E5',
-    primaryPressd: '#3730A3',
-    background: 'FFFFFF',
+    primaryPressed: '#3730A3',
+    background: '#FFFFFF',
     text: '#111827',
     muted: '#6B7280',
     card: '#F3F4F6'
