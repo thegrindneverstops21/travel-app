@@ -11,21 +11,22 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
       },
       "predictiveBackGestureEnabled": false,
       "package": "com.thegrindneverstops.rnuichallenge"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      
     },
     "extra": {
       "eas": {
         "projectId": "082f46c6-3187-422b-a3dd-202936fdd77b"
       }
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
