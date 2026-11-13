@@ -6,6 +6,10 @@ A mobile travel UI built with Expo, React Native, and TypeScript. The current sc
 
 Roama is the working name; the Expo project is currently configured as `rn-ui-challenge`.
 
+## Project link
+
+[View the shared file on Google Drive](https://drive.google.com/file/d/1sPVHLlaRvbTD7uGLczLEzUXqZkX8thDT/view?usp=drive_link).
+
 ## Features
 
 - Full-width destination photo with floating back and favorite buttons.
