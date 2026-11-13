@@ -1,4 +1,10 @@
-import { Pressable, Text, StyleSheet, StyleProp, ViewStyle} from "react-native";
+import {
+  Pressable,
+  Text,
+  StyleSheet,
+  StyleProp,
+  ViewStyle,
+} from "react-native";
 import { colors, scale } from "../theme";
 
 //define the props for the component
